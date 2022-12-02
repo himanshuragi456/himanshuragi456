@@ -6,7 +6,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/himanshuragi?label=Follow)](https://twitter.com/intent/follow?screen_name=himanshuragi)
 [![Linkedin: Himanshu Ragi](https://img.shields.io/badge/-Himanshu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himanshuragi/)](https://www.linkedin.com/in/himanshuragi/)
-![GitHub followers](https://img.shields.io/github/followers/himanshuragi456?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/himanshuragi456?label=Follow&style=social&link=https://www.github.com/himanshuragi456/)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://himanshu-ragi.web.app/)](https://himanshu-ragi.web.app/)
 ![](https://visitor-badge.glitch.me/badge?page_id=himanshuragi456.himanshuragi456)
 
