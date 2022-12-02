@@ -38,6 +38,15 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
  >
 > 🔑 23 Private Repositories  
  >
+
+<div align="left">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuragi456&layout=compact&hide_title=1&card_width=300&theme=dark" alt="Top language used in my repos" />
+  <br />
+  <small>Languages used in my public repos - big fan of JavaScript 😛</small>
+  <br />
+  <br />
+</div>
+
 **I'm an Early 🐤**
 
 ```text
@@ -60,13 +69,5 @@ Saturday     121 commits    ███░░░░░░░░░░░░░░�
 Sunday       168 commits    █████░░░░░░░░░░░░░░░░░░░░   19.91%
 
 ```
-
-<div align="left">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuragi456&layout=compact&hide_title=1&card_width=300&theme=dark" alt="Top language used in my repos" />
-  <br />
-  <small>Languages used in my public repos - big fan of JavaScript 😛</small>
-  <br />
-  <br />
-</div>
 
  Last Updated on 02/12/2022 01:47:19 UTC
