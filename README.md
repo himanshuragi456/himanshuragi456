@@ -61,15 +61,12 @@ Sunday       168 commits    █████░░░░░░░░░░░░�
 
 ```
 
-**I Mostly Code in JavaScript**
-
-```text
-JavaScript               33 repos            ████████████░░░░░░░░░░░░░   49.25% 
-Vue                      8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.94% 
-CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.45% 
-Java                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.96% 
-Dart                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.97%
-
-```
+<div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuragi456&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <br />
+  <small>Languages used in my public repos - big fan of JavaScript 😛</small>
+  <br />
+  <br />
+</div>
 
  Last Updated on 02/12/2022 01:47:19 UTC
