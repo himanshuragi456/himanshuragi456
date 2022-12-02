@@ -66,7 +66,7 @@ Sunday       168 commits    █████░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On**
 
 ```text
-⌚︎ Time Zone: Asia/Kolkata
+⌚︎ Time Zone: Asia/Mumbai
 
 💬 Programming Languages: 
 Vue.js                   12 hrs 51 mins      ████████████████░░░░░░░░░   65.17% 
@@ -81,7 +81,8 @@ VS Code                  0 secs              ░░░░░░░░░░░�
 DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
 💻 Operating System: 
-Mac                      19 hrs 44 mins      █████████████████████████   100.0%
+Windows                  10 hrs 14 mins      ████████████████░░░░░░░░░   64.0%
+Mac                      09 hrs 37 mins      █████████████░░░░░░░░░░░░   46.0%
 
 ```
 
@@ -97,8 +98,3 @@ Dart                     4 repos             █░░░░░░░░░░�
 ```
 
  Last Updated on 02/12/2022 01:47:19 UTC
-<!--END_SECTION:waka-->
-
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
-
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
