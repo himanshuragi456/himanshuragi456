@@ -34,9 +34,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
  >
 > 📦 172.3 kB Used in GitHub's Storage
  >
-> 🚫 Not Opted to Hire
- >
-> 📜 21 Public Repositories
+> 📜 14 Public Repositories
  >
 > 🔑 23 Private Repositories  
  >
