@@ -31,14 +31,3 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
----
-
-<br />
-
-**Languages used in my public repos - big fan of JavaScript 😛**
-<div align="left">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuragi456&layout=compact&hide_title=1&card_width=300&theme=dark" alt="Top language used in my repos" />
-  <br />
-  <br />
-</div>
