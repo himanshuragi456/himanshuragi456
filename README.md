@@ -1,34 +1,21 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hey! I'm Himanshu Ragi! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Senior Software Engineer at <a href="https://www.doodleblue.com/">Doodleblue Innovations
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-</em></p>
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/himanshuragi?label=Follow)](https://twitter.com/intent/follow?screen_name=himanshuragi)
-[![Linkedin: Himanshu Ragi](https://img.shields.io/badge/-Himanshu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himanshuragi/)](https://www.linkedin.com/in/himanshuragi/)
-[![GitHub followers](https://img.shields.io/github/followers/himanshuragi456?label=Follow&style=social&link=https://www.github.com/himanshuragi456/)](https://www.github.com/himanshuragi456/)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://himanshu-ragi.web.app/)](https://himanshu-ragi.web.app/)
-![](https://visitor-badge.glitch.me/badge?page_id=himanshuragi456.himanshuragi456)
-
-
-<h1 align="center">Hi 👋, I'm Mohammed Taher Ghazal</h1>
+<h1 align="center">Hi 👋, I'm Himanshu Ragi</h1>
 <h3 align="center">A Front-end developer</h3>
 
 - 💕 I'm very good with: React, TypeScript, Javascript, Redux, Tailwind, Scss, Storybook.
 
 - 👀 Always looking to work on unique projects that can have an impact somewhere.
 
-- 🛠 I’m currently working on [bolt.fun](https://bolt.fun), a platform for the community of lightining apps makers.
+- 🛠 I’m currently working on [ThunderApp](https://thunderapp.co), a platform that connects college introverts.
 
-- 🎭 My beautiful portfolio [mtg-dev.tech](https://mtg-dev.tech) :)
+- 🎭 My beautiful portfolio [Himanshu-Ragi](https://himanshu-ragi.web.app) :)
 
 - ✨ I'm interested in & learning about: Blockchain technology, Competitve programming, Algorithems & Data Structures.
 
-- 📧 Want to build something together ?? reach me via my email: mtg0987654321@gmail.com & let's have a nice chat ☕
+- 📧 Want to build something together ?? reach me via my email: hirehimanshuragi@gmail.com & let's have a nice chat ☕
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mtg-softwares-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mtg-softwares-dev/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/himanshuragi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/himanshuragi/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
