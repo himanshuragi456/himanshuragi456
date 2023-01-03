@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Himanshu Ragi</h1>
 <h3 align="center">A Front-end developer</h3>
 
-- 💕 I'm very good with: React, TypeScript, Javascript, Redux, Tailwind, Scss, Storybook.
+- I'm very good with: React, TypeScript, Javascript, Redux, Tailwind, Scss, Storybook.
 
-- 👀 Always looking to work on unique projects that can have an impact somewhere.
+- Always looking to work on unique projects that can have an impact somewhere.
 
-- 🛠 I’m currently working on [ThunderApp](https://thunderapp.co), a platform that connects college introverts.
+- I’m currently working on [ThunderApp](https://thunderapp.co), a platform that connects college introverts.
 
-- 🎭 My beautiful portfolio [Himanshu-Ragi](https://himanshu-ragi.web.app) :)
+- My portfolio [Himanshu-Ragi](https://himanshu-ragi.web.app) :)
 
-- ✨ I'm interested in & learning about: Blockchain technology, Competitve programming, Algorithems & Data Structures.
+- I'm interested in & learning about: Blockchain technology, Competitve programming, Algorithems & Data Structures.
 
-- 📧 Want to build something together ?? reach me via my email: hirehimanshuragi@gmail.com & let's have a nice chat ☕
+- Want to build something together ?? reach me via my email: hirehimanshuragi@gmail.com & let's have a nice chat ☕
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
