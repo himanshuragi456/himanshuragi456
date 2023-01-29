@@ -7,7 +7,7 @@
 
 - I’m currently working on [ThunderApp](https://thunderapp.co), a platform that connects college introverts.
 
-- My portfolio [Himanshu-Ragi](https://himanshu-ragi.web.app) :)
+<!-- - My portfolio [Himanshu-Ragi](https://himanshu-ragi.web.app) :) -->
 
 - I'm interested in & learning about: Blockchain technology, Competitve programming, Algorithems & Data Structures.
 
