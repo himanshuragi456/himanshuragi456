@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Ragi</h1>
-<h3 align="center">A Front-end developer</h3>
+<h3 align="center">A Full-stack developer</h3>
 
-- I'm very good with: React, TypeScript, Javascript, Redux, Tailwind, Scss, Storybook.
+- I'm very good with: React, TypeScript, Javascript, Redux, Tailwind, Scss, Express, MongoDB.
 
 - Always looking to work on unique projects that can have an impact somewhere.
 
